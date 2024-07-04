@@ -1,4 +1,4 @@
-package com.example.infrastructure.rest;
+package com.example.adapter.rest;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

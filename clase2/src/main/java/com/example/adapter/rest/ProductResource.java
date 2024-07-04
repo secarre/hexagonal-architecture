@@ -1,4 +1,4 @@
-package com.example.infrastructure.rest;
+package com.example.adapter.rest;
 
 import com.example.application.ProductService;
 import jakarta.inject.Inject;

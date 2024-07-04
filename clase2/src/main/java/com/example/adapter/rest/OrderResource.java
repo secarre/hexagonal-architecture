@@ -1,4 +1,4 @@
-package com.example.infrastructure.rest;
+package com.example.adapter.rest;
 
 import com.example.domain.model.Order;
 import com.example.domain.model.OrderItem;

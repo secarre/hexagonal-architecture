@@ -1,4 +1,4 @@
-package com.example.infrastructure.rest;
+package com.example.adapter.rest;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
