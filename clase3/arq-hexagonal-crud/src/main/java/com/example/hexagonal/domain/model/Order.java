@@ -2,11 +2,14 @@ package com.example.hexagonal.domain.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-@Data
+@Getter
+@Setter
 @Entity
 @Table(name = "orders")
 public class Order {
